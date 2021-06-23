@@ -1,0 +1,75 @@
+body{
+    background-color: aqua;
+}
+
+img{
+    margin-bottom: auto;
+    width: 800px;
+    height: 300px;
+
+}
+table{
+    padding: 0%;
+}
+#sumu{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    text-align: center;
+    background-color: rgb(158, 31, 94);
+    border-radius: 2px;
+    margin-left: 303px;
+    margin-right: 303px;
+
+}
+h5{
+    text-align: center;
+    background-color: bisque;
+    margin-left: 369px;
+    margin-right:300px ;
+    margin-top: -36px;
+}
+#test{
+    background-color: rgb(35, 145, 121);
+    margin-left: 204px;
+    margin-right: 484px;
+   
+    text-align: left;
+}
+a{
+    background-color: rgb(19, 121, 107);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:normal;
+}
+#hobby{
+    background-color: burlywood;
+    height: 300px;
+    width: 800px;
+    margin-top: -20px;
+    margin-left: 244px;
+}
+#ball{
+    border-radius: 10000%;
+    height: 23px;
+    width: 23px;
+    margin-left: 233px;
+}
+#b{
+    text-align: center;
+    background-color: bisque;
+    margin-left: 270px;
+    margin-right:400px ;
+    margin-top: -22px;
+
+}
+#co{
+    background-color: coral;
+    width:322px;
+    height: 690px;
+}
+#be{
+    margin-left: 322px;
+    margin-top: -690px;
+}
